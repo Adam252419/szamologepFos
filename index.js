@@ -50,4 +50,9 @@ function szamolas(){
     kiiro.value=eredmeny
 }
 const torles = document.getElementById("torles")
-torles.addEventListener()
+torles.addEventListener("click".torles)
+
+function torles(){
+    kiiro.value =""
+    elsoSzamjegySzovege =""
+}
